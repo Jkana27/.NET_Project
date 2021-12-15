@@ -1,0 +1,15 @@
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/bin/Debug/net6.0/ref/Persistence.dll
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/Users/jacobkana/Desktop/DotNET_Project/Persistence/obj/Debug/net6.0/Persistence.pdb

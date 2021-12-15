@@ -1,0 +1,12 @@
+/Users/jacobkana/Desktop/DotNET_Project/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/jacobkana/Desktop/DotNET_Project/Domain/bin/Debug/net6.0/Domain.dll
+/Users/jacobkana/Desktop/DotNET_Project/Domain/bin/Debug/net6.0/ref/Domain.dll
+/Users/jacobkana/Desktop/DotNET_Project/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.dll
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/ref/Domain.dll
+/Users/jacobkana/Desktop/DotNET_Project/Domain/obj/Debug/net6.0/Domain.pdb
